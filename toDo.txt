@@ -1,0 +1,5 @@
+- Bouton Icm dans le bandeau du haut à droite sur phpbb qd user loged
+- Possibilité de donner à icm le droit de lire les esi
+- Comment verrifier si le user du fofo est bien connecté
+- Check des droit ingame : appartenance à la corpo, role directeur
+- 
